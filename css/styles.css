@@ -201,7 +201,7 @@ section {
 /* SUBSCRIBE */
 
 #subscribe {
-	background: url(../images/NOUS.png ) no-repeat fixed center center / cover rgba(0, 0, 0, 0);
+	background: url(/images/Credits.PNG.png ) no-repeat fixed center center / cover rgba(0, 0, 0, 0);
 	padding: 0px;
 	min-height: 430px;
 }
